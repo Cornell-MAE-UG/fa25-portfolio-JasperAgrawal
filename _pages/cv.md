@@ -29,17 +29,16 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360,LaTeX
-- **Programming:** Python, MATLAB, 
-- **Tools:** 3D Printing, Laser Cutting  
+- **Software:** Autodesk Fusion 360,TexWorks, FIJI,
+- **Programming:** Python, MATLAB, R
+- **Tools:** 3D Printing, LASER PIV
 
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **[Summer Research]**:  
+  *[I worked with Chris Roh doing fluid mechanics research]*  
+  - Laser PIV usage and 
 
 - **[Project Title]**:  
   *[Short Description]*  

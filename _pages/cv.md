@@ -38,13 +38,8 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 #### Projects
 - **[Summer Research]**:  
   *[I worked with Chris Roh doing fluid mechanics research]*  
-  - Laser PIV usage and 
-
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
+  - Laser PIV usage and project design
+  - Water surface PIV particle testing
 ---
 
 #### Work Experience

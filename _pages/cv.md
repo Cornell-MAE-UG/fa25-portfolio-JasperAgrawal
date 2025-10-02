@@ -40,18 +40,24 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
   *[I worked with Chris Roh doing fluid mechanics research]*  
   - Laser PIV usage and project design
   - Water surface PIV particle testing
+
+- **[Project Title]**:  
+  *[Short Description]*  
+  - Key Achievement 1  
+  - Key Achievement 2  
+
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **[Primitive Pursuits] - Lead Wilderness Instructor**  
+  [June, 2022] - [August, 2024]  
+  - I was responsible for 10-20 youth and organized lessons and activities focused on plant identification, wilderness fire making and other skills
+  - I additionally was responsible for leading a group of wilderness instructors to maintain cohesion in the field.  
 
 ---
 
 #### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
+- [EHS 2397 - Laser Safety], [Cornell University], [2025]  
 - [Achievement Name], [Competition/Event], [Year]  
 
 ---

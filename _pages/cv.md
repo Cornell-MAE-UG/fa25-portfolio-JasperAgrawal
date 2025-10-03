@@ -4,6 +4,10 @@ title: Jasper Agrawal - CV
 permalink: /cv/
 ---
 ## Curriculum Vitae
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css" integrity="sha384-..." crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.js" integrity="sha384-..." crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/contrib/auto-render.min.js" integrity="sha384-..." crossorigin="anonymous"
+    onload="renderMathInElement(document.body);"></script>
 
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
@@ -13,13 +17,13 @@ permalink: /cv/
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in Physics and Engineering Design Passionate about wind and hydropower and eager to apply my knowledge in real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
+  *Bachelor of Science in Environmental Engineering*  
   GPA: 3.2/4.0 | Graduation: May, 2027
 
 - **[Ithaca High School]**  
@@ -29,7 +33,7 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360,TexWorks, FIJI,
+- **Software:** $$ \LaTeX $$, Autodesk Fusion 360, FIJI
 - **Programming:** Python, MATLAB, R
 - **Tools:** 3D Printing, LASER PIV
 

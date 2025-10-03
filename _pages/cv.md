@@ -17,7 +17,7 @@ permalink: /cv/
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in Physics and Engineering Design Passionate about wind and hydropower and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in physics and engineering design, passionate about wind and hydropower and eager to apply my knowledge in real-world applications.
 
 ---
 
@@ -33,7 +33,7 @@ Aspiring engineering student with a strong foundation in Physics and Engineering
 ---
 
 #### Skills
-- **Software:** $$ \LaTeX $$, Autodesk Fusion 360, FIJI
+- **Software:** $$ \LaTeX $$, Autodesk Fusion 360, FIJI, GEE 
 - **Programming:** Python, MATLAB, R
 - **Tools:** 3D Printing, LASER PIV
 

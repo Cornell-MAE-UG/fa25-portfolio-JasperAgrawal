@@ -15,7 +15,7 @@ Given a 2D design space of 150cm long and 50cm tall, a rigid bar of a fixed leng
 
 **Constraints** & **Objectives**: Select beam cross section such that deflection must be under 2% of length. 
 
-## I-Beam Cross-Section Design
+**I-Beam Deflection**
 
 **Dimensions:**
 - Overall height: $$h = 290$$ mm
